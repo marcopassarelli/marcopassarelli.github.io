@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Marco Passarelli — Post</title>
+    <link>https://marcopassarelli.github.io/blog/</link>
+    <atom:link href="https://marcopassarelli.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <description>Riflessioni su IA, architettura software e mestiere dello sviluppatore, nate su LinkedIn.</description>
+    <language>it</language>
+    <item>
+      <title>AI Engineer in 8 minuti? Il pilota automatico non fa il pilota</title>
+      <link>https://marcopassarelli.github.io/blog/ai-engineer-in-8-minuti/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/ai-engineer-in-8-minuti/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Sat, 31 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Imparare due SDK e interrogare un database vettoriale non rende nessuno un ingegnere: gli strumenti cambiano, la visione d'insieme e la comprensione dei trade-off restano.</description>
+      <content:encoded><![CDATA[<p><img src="https://marcopassarelli.github.io/images/posts/ai-engineer-in-8-minuti-og.jpg" alt="Un laptop su una scrivania mostra il titolo di un corso da otto minuti per diventare AI Engineer, accanto ai libri Clean Code, Domain-Driven Design e Design Patterns." /></p>
+<p>Are you fking kidding me?</p>
+<p>È la prima cosa che ho pensato leggendo oggi su daily.dev il titolo di un contenuto: <em>&quot;Dammi 8 minuti e ti farò diventare un AI Engineer&quot;</em>.</p>
+<p>Il programma? Imparare due SDK, fare una query su un database vettoriale, toccare con mano un paio di indici e aggiungere il tracing delle chiamate. Fatto. Otto minuti e sei un ingegnere.</p>
+<p>Il settore si sta muovendo a un ritmo talmente frenetico che stiamo confondendo la padronanza di qualche strumento del momento con la reale ingegneria del software.</p>
+<p>Saper configurare una libreria o invocare un&#39;API in dieci righe di codice non rende nessuno un ingegnere, esattamente come l&#39;introduzione del pilota automatico non ha mai sostituito i veri piloti d&#39;aereo. L&#39;automazione e le astrazioni semplificano il lavoro di routine, ma la capacità di pilotare si vede quando le condizioni si fanno complesse, quando il sistema fallisce o quando bisogna prendere decisioni strutturali sotto vincoli reali.</p>
+<p>Gli strumenti e i provider cambieranno continuamente. Quello che resta è la visione d&#39;insieme, la comprensione profonda dei trade-off e la capacità di progettare architetture solide e sostenibili nel tempo.</p>
+<p>Tutto il resto è solo l&#39;ennesimo strumento da aggiungere alla cassetta degli attrezzi.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/ai-engineer-in-8-minuti/">https://marcopassarelli.github.io/blog/ai-engineer-in-8-minuti/</a></p>]]></content:encoded>
+      <enclosure url="https://marcopassarelli.github.io/images/posts/ai-engineer-in-8-minuti-og.jpg" type="image/jpeg" length="0" />
+      <category>Software Engineering</category>
+      <category>Architettura</category>
+      <category>AI</category>
+      <category>Carriera</category>
+    </item>
+    <item>
+      <title>Smart TV che ascoltano: cosa rivela il firmware</title>
+      <link>https://marcopassarelli.github.io/blog/smart-tv-firmware-telemetria/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/smart-tv-firmware-telemetria/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Mon, 26 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Il reverse engineering del firmware delle TV Samsung Tizen, fatto con l'aiuto dell'IA, mostra come la telemetria pubblicitaria consumi le risorse dell'hardware che paghiamo.</description>
+      <content:encoded><![CDATA[
+<p>L&#39;analisi del firmware delle TV Samsung basate su Tizen, pubblicata di recente da un ricercatore di sicurezza, mette in luce una dinamica sempre più diffusa nei dispositivi IoT commerciali.</p>
+<p>Dal reverse engineering del codice emergono moduli dedicati alla profilazione pubblicitaria avanzata: analisi visiva dei contenuti on-device, riconoscimento dei suoni d&#39;ambiente e persino routine pensate per cercare microfoni su periferiche esterne, come le soundbar, quando il televisore ne è sprovvisto.</p>
+<p>Un aspetto particolarmente interessante di questa vicenda riguarda la metodologia. Il ricercatore ha utilizzato gli strumenti di intelligenza artificiale per velocizzare l&#39;analisi e l&#39;interpretazione del codice estratto dal firmware. È la dimostrazione pratica di come l&#39;IA stia diventando un alleato straordinario per gli analisti, permettendo a singoli esperti di eseguire audit complessi in tempi che prima avrebbero richiesto interi team di lavoro.</p>
+<p>Al di là degli aspetti di privacy, la questione evidenzia un paradosso di progettazione software. Parte consistente delle risorse di calcolo dell&#39;hardware che l&#39;utente acquista viene assorbita da processi di tracciamento e telemetria in background, a discapito della fluidità e della reattività dell&#39;interfaccia.</p>
+<p>È uno scenario che mostra chiaramente come le priorità di sviluppo di molti prodotti consumer si stiano progressivamente spostando dalla qualità dell&#39;esperienza utente alla monetizzazione dei dati.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/smart-tv-firmware-telemetria/">https://marcopassarelli.github.io/blog/smart-tv-firmware-telemetria/</a></p>]]></content:encoded>
+      <category>Cybersecurity</category>
+      <category>Privacy</category>
+      <category>IoT</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Codice legacy e il Mivar a tubo catodico</title>
+      <link>https://marcopassarelli.github.io/blog/codice-legacy-mivar/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/codice-legacy-mivar/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Thu, 22 Oct 2026 09:00:00 GMT</pubDate>
+      <description>L'ennesima vulnerabilità in PHP ricorda che le fondamenta tecnologiche ogni tanto vanno svecchiate, anziché affidarsi agli scongiuri.</description>
+      <content:encoded><![CDATA[
+<p>Hanno trovato l&#39;ennesima vulnerabilità in PHP, e diciamoci la verità... Ormai trovare una falla nel codice legacy è diventato facile come trovare un influencer che si lamenta dell&#39;algoritmo. Eppure, continuiamo a stupirci.</p>
+<p>A pensarci bene, insistere nel mantenere certi sistemi senza un&#39;evoluzione seria è un po&#39; come voler guardare la finale di Champions League in 4K HDR su un televisore Mivar a tubo catodico degli anni &#39;90.</p>
+<p>Il segnale in teoria c&#39;è, la presa SCART è tenuta insieme dallo scotch e dalla speranza, ma il risultato finale è che vedi solo una macchia grigia, senti un fischio assordante e l&#39;immagine implode appena la tecnologia fa sul serio.</p>
+<p>L&#39;AI non ha nostalgia dei vecchi tempi: legge tutto, incastra i pattern e smonta le fondamenta traballanti più velocemente di quanto un developer possa pronunciare la fatidica frase: <em>&quot;It works on my machine&quot;</em>.</p>
+<p>Forse è il momento di accettare che il passato è glorioso, ma le fondamenta tecnologiche ogni tanto avrebbero bisogno di una svecchiata, anziché affidarsi solo agli scongiuri.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/codice-legacy-mivar/">https://marcopassarelli.github.io/blog/codice-legacy-mivar/</a></p>]]></content:encoded>
+      <category>Cybersecurity</category>
+      <category>Legacy</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Nessuno sa esattamente cosa vuole</title>
+      <link>https://marcopassarelli.github.io/blog/nessuno-sa-cosa-vuole/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/nessuno-sa-cosa-vuole/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Tue, 20 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Quando un agente AI sbaglia, il problema quasi mai è la sua capacità: è la sotto-specificazione. L'AI non è un oracolo, è un amplificatore.</description>
+      <content:encoded><![CDATA[
+<blockquote>
+<p>Nessuno sa esattamente cosa vuole.</p>
+</blockquote>
+<p>Molti si avvicinano all&#39;intelligenza artificiale aspettandosi una sorta di magia: l&#39;idea che basti un input vago per ottenere un risultato perfetto, come se l&#39;AI potesse leggere nel pensiero o colmare da sola le nostre ambiguità. Poi il codice generato non è quello che ci si aspettava, e la conclusione affrettata è che &quot;l&#39;AI non funziona&quot;.</p>
+<p>La realtà è ben diversa: quando un agente AI sbaglia, il problema quasi mai è la sua capacità: è la <strong>sotto-specificazione</strong>.</p>
+<p>L&#39;AI non è un oracolo, è un amplificatore. Se l&#39;input è ambiguo, l&#39;output sarà semplicemente un errore generato molto più velocemente del solito.</p>
+<p>L&#39;avvento di questi strumenti non elimina il ruolo dell&#39;ingegnere, ne sposta semplicemente il baricentro a monte.</p>
+<p>Il lavoro principale diventa definire l&#39;intenzione con precisione prima di toccare la tastiera. Significa usare l&#39;AI non solo per farsi dare risposte veloci, ma per farsi fare domande e far emergere quei casi limite che non avevamo considerato.</p>
+<p>All&#39;AI spetta la parte tattica (scrivere il codice), a noi la parte strategica (sapere cosa costruire e perché). Traduce in esecuzione la chiarezza dei nostri pensieri: se non sappiamo esattamente cosa vogliamo, ci aiuterà soltanto ad arrivare più velocemente nella direzione sbagliata.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/nessuno-sa-cosa-vuole/">https://marcopassarelli.github.io/blog/nessuno-sa-cosa-vuole/</a></p>]]></content:encoded>
+      <category>AI</category>
+      <category>Software Architecture</category>
+      <category>Tech Leadership</category>
+    </item>
+    <item>
+      <title>Banchi frigo spenti: la cybersecurity nell'era dell'IA</title>
+      <link>https://marcopassarelli.github.io/blog/cybersecurity-catena-del-freddo/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/cybersecurity-catena-del-freddo/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Sun, 18 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Un attacco alla catena del freddo dei supermercati francesi mostra quanto siano fragili i servizi essenziali, e quanto l'IA possa allargare il divario tra chi attacca e chi si difende.</description>
+      <content:encoded><![CDATA[
+<p>Il recente attacco ai frigoriferi dei supermercati francesi è il sintomo di una vulnerabilità ben più profonda.</p>
+<p>Un attacco informatico ai sistemi di gestione della catena del freddo ha messo fuori uso i banchi frigo di centinaia di supermercati, costringendoli a gettare tonnellate di cibo e causando danni per milioni di euro.</p>
+<p>Ciò che preoccupa di più non è solo l&#39;impatto economico diretto, ma la facilità disarmante con cui si è colpito un servizio essenziale.</p>
+<p>E oggi c&#39;è una variabile in più che cambia totalmente le regole del gioco: l&#39;Intelligenza Artificiale.</p>
+<p>Mettere strumenti così potenti e automatizzati nelle mani sbagliate significa dare a malintenzionati la capacità di scovare falle, generare attacchi su scala globale e paralizzare intere nazioni in una manciata di minuti.</p>
+<p>Se oggi bastano pochi clic &quot;potenziati&quot; per interrompere la catena alimentare, cosa rischiamo domani quando il bersaglio saranno:</p>
+<ul>
+<li><strong>sanità:</strong> sistemi ospedalieri, terapie e macchinari salvavita;</li>
+<li><strong>banche e finanza:</strong> circuiti di pagamento e mercati;</li>
+<li><strong>Pubblica Amministrazione:</strong> servizi essenziali e infrastrutture critiche?</li>
+</ul>
+<p>Saremo davvero pronti a difenderci da minacce che viaggiano alla velocità dell&#39;AI, o il divario tra chi attacca e chi si difende si sta allargando troppo pericolosamente?</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/cybersecurity-catena-del-freddo/">https://marcopassarelli.github.io/blog/cybersecurity-catena-del-freddo/</a></p>]]></content:encoded>
+      <category>Cybersecurity</category>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>DHH vs antirez: il codice è un mezzo o un fine?</title>
+      <link>https://marcopassarelli.github.io/blog/dhh-antirez-codice-mezzo-o-fine/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/dhh-antirez-codice-mezzo-o-fine/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Thu, 15 Oct 2026 09:00:00 GMT</pubDate>
+      <description>Pragmatismo del prodotto contro valore dell'ingegneria: gli agenti AI ci tolgono l'alibi della componente manuale e alzano l'asticella del nostro mestiere.</description>
+      <content:encoded><![CDATA[
+<p>Nel mio <a href="https://marcopassarelli.github.io/blog/il-silenzio-dei-senior/">ultimo post</a> parlavo del &quot;silenzio&quot; di molti developer e architect: quella sensazione di elaborazione del lutto per un&#39;artigianalità del codice che sta cambiando forma in modo irreversibile.</p>
+<p>In questi giorni sul tema sono intervenuti due pesi massimi dell&#39;ingegneria del software, David Heinemeier Hansson (DHH) e Salvatore Sanfilippo (antirez), mettendo a nudo la vera frattura del nostro settore.</p>
+<p>DHH ha espresso una posizione netta: chi oggi soffre l&#39;arrivo degli agenti AI trova gioia principalmente nell&#39;atto meccanico di scrivere codice. Se ami davvero il software e il valore del prodotto finale, non puoi che essere entusiasta dell&#39;automazione.</p>
+<p>È una visione che mette a confronto due modi opposti di intendere questo mestiere:</p>
+<ul>
+<li><strong>Da un lato, il pragmatismo del prodotto (DHH):</strong> Il codice è semplicemente un mezzo, non il fine. Eliminare la manovalanza operativa e il &quot;rumore di fondo&quot; significa liberare gli sviluppatori per farli concentrare sull&#39;unica cosa che conta davvero: dare vita a soluzioni ed esperienze di valore per gli utenti.</li>
+<li><strong>Dall&#39;altro, il valore dell&#39;ingegneria (Sanfilippo):</strong> La bellezza e la solidità del software risiedono nella padronanza tecnica, nella comprensione profonda dei sistemi e nel controllo di ciò che accade &quot;sotto il cofano&quot;. L&#39;architettura non è solo un output da generare, ma un processo di comprensione che non può essere totalmente delegato.</li>
+</ul>
+<p>La verità è che noi sviluppatori e architetti non siamo mai stati dei semplici &quot;esecutori&quot;. Tuttavia, l&#39;avvento degli agenti AI ci sta togliendo una storica zona di comfort: l&#39;alibi della componente manuale.</p>
+<p>Quando la stesura del codice, il refactoring e persino la prima analisi dei bug diventano commodity, la nostra professione non perde di senso, ma alza drasticamente l&#39;asticella. Ci viene chiesto di passare dal ruolo di costruttori manuali a quello di garanti di sistema, strateghi e architetti di valore.</p>
+<p>Una transizione che non cancella l&#39;ingegneria software, ma ne sposta semplicemente il peso dove è sempre dovuto stare: sulle decisioni ad alto livello e sulla visione complessiva del sistema.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/dhh-antirez-codice-mezzo-o-fine/">https://marcopassarelli.github.io/blog/dhh-antirez-codice-mezzo-o-fine/</a></p>]]></content:encoded>
+      <category>AI</category>
+      <category>Software Architecture</category>
+      <category>Tech Leadership</category>
+    </item>
+    <item>
+      <title>Il silenzio dei senior nell'era degli agenti AI</title>
+      <link>https://marcopassarelli.github.io/blog/il-silenzio-dei-senior/</link>
+      <guid isPermaLink="true">https://marcopassarelli.github.io/blog/il-silenzio-dei-senior/</guid>
+      <dc:creator>Marco Passarelli</dc:creator>
+      <pubDate>Thu, 08 Oct 2026 09:00:00 GMT</pubDate>
+      <description>In due anni l'IA è passata da assistente per la sintassi a collega che si auto-corregge fino al semaforo verde. Ma cosa resta dell'artigianalità del codice?</description>
+      <content:encoded><![CDATA[
+<p>Se guardo a come è cambiata la mia percezione negli ultimi due anni, la progressione è disarmante:</p>
+<ul>
+<li><strong>2 anni fa:</strong> L&#39;IA è un ottimo assistente per velocizzare la sintassi, fare refactoring di metodi, generare test noiosi e regex, scrivere della documentazione.</li>
+<li><strong>1 anno fa:</strong> Con l&#39;arrivo di nuovi strumenti e agenti capaci di generare da zero app complete e rilasciabili, l&#39;asticella si è alzata. Ma siamo ancora noi a fare il lavoro pesante.</li>
+<li><strong>6 mesi fa:</strong> L&#39;integrazione con pipeline e2e e contesti complessi inizia a far paura. L&#39;IA non si limita a generare codice: comprende l&#39;architettura meglio di quanto pensassi.</li>
+<li><strong>Oggi:</strong> Se guidata con il giusto controllo di sistema, l&#39;IA produce codice, test e fix con una qualità e una continuità superiori al 99% dei dev e architect umani.</li>
+</ul>
+<p>Inutile fare i puristi o nascondersi dietro a un dito: la velocità di questa evoluzione è fuori scala. Con le giuste metodologie (test, visual, regressione, analisi delle performance), l&#39;IA non solo scrive la funzionalità, ma legge lo stack trace e si auto-corregge fino al famoso &quot;semaforo verde&quot;.</p>
+<p>Ma se la qualità dell&#39;output è ormai un dato di fatto, la vera domanda per chi fa questo mestiere da anni diventa un&#39;altra: cosa ne sarà del nostro lavoro? E soprattutto, ci piacerà ancora? Se il nostro ruolo si &quot;riduce&quot; a scrivere specifiche ad altissima fedeltà e ad orchestrare agenti, l&#39;efficienza sarà massima. Ma dov&#39;è finita l&#39;artigianalità del codice? Quel piacere quasi fisico di capire ogni singolo ingranaggio sotto il cofano?</p>
+<p>Vedo tre reazioni nel settore.</p>
+<ul>
+<li><strong>Gli AI Engineer:</strong> Adattati o sei fuori, il codice è solo probabilità.</li>
+<li><strong>I &quot;Negazionisti&quot;:</strong> L&#39;IA fa solo spazzatura (ormai palesemente smentiti dai fatti).</li>
+<li><strong>I Silenziosi:</strong> La maggioranza dei senior dev e architect che non dice una parola.</li>
+</ul>
+<p>Ed è proprio quel silenzio a preoccuparmi di più. Non è indifferenza: ha tutta l&#39;aria di un&#39;elaborazione del lutto. Quella forma di rimozione difensiva di chi vede benissimo che il lavoro amato per una vita sta cambiando forma in modo irreversibile, e ha semplicemente paura che la nuova forma non gli piacerà affatto.</p>
+<p>Scrivere prompt accurati è comunque ingegneria, certo. Ma non è il motivo per cui ci siamo innamorati della programmazione.</p>
+
+<hr /><p>Pubblicato originariamente su <a href="https://marcopassarelli.github.io/blog/il-silenzio-dei-senior/">https://marcopassarelli.github.io/blog/il-silenzio-dei-senior/</a></p>]]></content:encoded>
+      <category>AI</category>
+      <category>Software Engineering</category>
+      <category>Future of Work</category>
+    </item>
+  </channel>
+</rss>
